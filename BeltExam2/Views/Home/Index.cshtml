@@ -1,0 +1,48 @@
+﻿@model ViewModel;
+<div class="container-fluid bg-light border rounded">
+    <div class="header container-fluid mb-3 mt-2">
+        <h1 style="text-decoration:underline;" class="text-center">Welcome to Bright Ideas</h1>
+    </div>
+    <div class="container-fluid ml-0 mr-0 row">
+        <div class="leftbox container d-inline-block col">
+            <h3 class="border-bottom border-dark mt-2 pb-2">Enter Your Information to Create an Account</h3>
+            <form class="mt-4 pb-5" asp-action="register" asp-controller="Home" method="post">
+                <div class="col-8 mb-3 p-0">
+                    <span class="text-danger" asp-validation-for="User.Name"></span>
+                    <input asp-for="User.Name" class="form-control form-control-lg" placeholder="Name (only letters and spaces)" pattern="^[a-zA-Z\s]*$">
+                </div>
+                <div class="col-8 mb-3 p-0">
+                    <span class="text-danger" asp-validation-for="User.Alias"></span>
+                    <input asp-for="User.Alias" class="form-control form-control-lg" placeholder="Alias (only letters and numbers)" pattern="^[a-zA-Z0-9]*$">
+                </div>
+                <div class="col-8 mb-3 p-0">
+                    <span class="text-danger" asp-validation-for="User.Email"></span>
+                    <input asp-for="User.Email" class="form-control form-control-lg" placeholder="Email Address">
+                </div>
+                <div class="col-8 mb-3 p-0">
+                    <span class="text-danger" asp-validation-for="User.Password"></span>
+                    <input asp-for="User.Password" class="form-control form-control-lg" placeholder="Password">
+                </div>
+                <div class="col-8 mb-5 p-0">
+                    <span class="text-danger" asp-validation-for="User.Confirm"></span>
+                    <input asp-for="User.Confirm" class="form-control form-control-lg" placeholder="Confirm Password">
+                </div>
+                <input class="btn btn-lg btn-outline-success" type="submit" value="Submit">
+            </form>
+        </div>
+        <div class="rightbox container d-inline-block col border-left pl-4">
+            <h3 class="border-bottom border-dark mt-2 pb-2">Enter Email and Password to Log-in</h3>
+            <form class="mt-4" asp-action="login" asp-controller="Home" method="post">
+                <div class="col-8 mb-3 p-0">
+                    <span class="text-danger" asp-validation-for="LoginUser.Email"></span>
+                    <input asp-for="LoginUser.Email" class="form-control form-control-lg" placeholder="Email Address">
+                </div>
+                <div class="col-8 mb-5 p-0">
+                    <span class="text-danger" asp-validation-for="LoginUser.Password"></span>
+                    <input asp-for="LoginUser.Password" class="form-control form-control-lg" placeholder="Password">
+                </div>
+                <input class="btn btn-lg btn-outline-success" type="submit" value="Login">
+            </form>
+        </div>
+    </div>
+</div>

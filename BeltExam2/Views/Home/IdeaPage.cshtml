@@ -1,0 +1,39 @@
+<div class="container-fluid bg-light border rounded">
+    <div class="header container-fluid mb-4 mt-2 text-center">
+        <h1 class="border-bottom" style="" class="text-center">@Model.Idea.Creator.Alias's Idea</h1>
+    </div>
+    <div class="header container-fluid">
+        <div class="text-right">
+            <a class="align-top" href="/BrightIdeas">Home</a> | <a class="align-top" href="/logout">Logout</a>
+        </div>
+    </div>
+    <div class="container-fluid ml-0 mr-0 border-bottom mb-3">
+        <div class="col-2 offset-2 d-inline-block text-right">
+            <h5 class="d-inline-block">@Model.Idea.Creator.Alias says: </h5> 
+        </div>
+        <div class="col-4 d-inline-block border border-dark rounded pt-1 pl-2">
+            <p class="d-inline-block">@Model.Idea.Content</p>
+        </div>
+        <div class="col-4 offset-4 text-center mt-5">
+            <h4>People who Liked this Post</h4>
+            <table class="table table-striped table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Alias</th>
+                        <th>Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach(var like in @Model.Idea.UsersWhoLiked)
+                        {
+                            <tr>
+                                <td><a href="UserPage/@like.User.UserId">@like.User.Alias</a></td>
+                                <td>@like.User.Name</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>

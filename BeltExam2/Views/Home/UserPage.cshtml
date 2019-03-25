@@ -1,0 +1,21 @@
+<div class="container-fluid bg-light border rounded">
+    <div class="header container-fluid mb-4 mt-2 text-center">
+        <h1 class="border-bottom" style="" class="text-center">@Model.User.Alias's Page</h1>
+    </div>
+    <div class="header container-fluid">
+        <div class="text-right">
+            <a class="align-top" href="/BrightIdeas">Home</a> | <a class="align-top" href="/logout">Logout</a>
+        </div>
+    </div>
+    <div class="container-fluid ml-0 mr-0 border-bottom mb-3">
+        <div class="info container-fluid mt-5">
+            <h4 class="">Name: @Model.User.Name</h4>
+            <h4 class="">Name: @Model.User.Alias</h4>
+            <h4 class="">Name: @Model.User.Email</h4>
+        </div>
+        <hr>
+        <div class="stats container-fluid">
+            <h4>Number of Posts: @Model.User.CreatedIdeas.Count</h4>
+            <h4>Number of Likes: @Model.DisplayLikes.Count</h4>
+        </div>
+    </div>

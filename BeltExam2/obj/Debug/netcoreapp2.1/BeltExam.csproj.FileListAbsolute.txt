@@ -1,0 +1,58 @@
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.deps.json
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.runtimeconfig.json
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.runtimeconfig.dev.json
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.dll
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.pdb
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.Views.dll
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.Views.pdb
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.csprojAssemblyReference.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.csproj.CoreCompileInputs.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorAssemblyInfo.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorAssemblyInfo.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.AssemblyInfoInputs.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.AssemblyInfo.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.TagHelpers.input.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.TagHelpers.output.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorCoreGenerate.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorTargetAssemblyInfo.cache
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorTargetAssemblyInfo.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.Views.pdb
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.dll
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.pdb
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.csproj.CopyComplete
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/BrightIdeas.g.cshtml.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/IdeaPage.g.cshtml.cs
+/Users/skylarmacias/Documents/Coding_Dojo_Projects/C#_Stack/Belt Exam/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/UserPage.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.csprojAssemblyReference.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.csproj.CoreCompileInputs.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorAssemblyInfo.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorAssemblyInfo.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.AssemblyInfoInputs.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.AssemblyInfo.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.TagHelpers.input.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.TagHelpers.output.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorCoreGenerate.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.dll
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.pdb
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.deps.json
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.runtimeconfig.json
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.runtimeconfig.dev.json
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.dll
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.pdb
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.Views.dll
+/Users/skylarmacias/Documents/Launch/BeltExam2/bin/Debug/netcoreapp2.1/BeltExam.Views.pdb
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/BrightIdeas.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/IdeaPage.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Home/UserPage.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorTargetAssemblyInfo.cache
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.RazorTargetAssemblyInfo.cs
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.Views.pdb
+/Users/skylarmacias/Documents/Launch/BeltExam2/obj/Debug/netcoreapp2.1/BeltExam.csproj.CopyComplete
